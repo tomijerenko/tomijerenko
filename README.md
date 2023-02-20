@@ -1,4 +1,4 @@
 ### [Tomi Jerenko][Tomi Jerenko] - Cyber Security Specialist
-Cyber Security Specialist in engineering, auditing and hardening of digital asset and DeFi platforms.
+As a Cyber Security Specialist, I specialize in engineering, auditing and hardening of Digital Asset and Decentralized Finance platforms and solutions.
 
 [Tomi Jerenko]: https://tomijerenko.com
