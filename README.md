@@ -1,4 +1,4 @@
-### [Tomi Jerenko][Tomi Jerenko] - Cyber Security Specialist
-As a Cyber Security Specialist, I specialize in engineering, auditing and hardening of Digital Asset and Decentralized Finance platforms and solutions.
+### [Tomi Jerenko][Tomi Jerenko] - Cyber Security & Site Reliability Engineer
+As a Cyber Security and Site Reliability Engineer, I specialize in building secure and resilient systems for the financial industry
 
 [Tomi Jerenko]: https://tomijerenko.com
